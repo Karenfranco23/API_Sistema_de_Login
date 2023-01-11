@@ -7,10 +7,6 @@ Para que os usuários possam acessar as rotas da aplicação, é preciso autenti
 
 ### 🛠️ **Tecnologias**
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain-wordmark.svg" width="60" height="60"/> 
-|   
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width="60" height="60"/> 
-
 - NodeJS v16.17.0
 
 - NestJS v9.0.0
