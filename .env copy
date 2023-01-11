@@ -1,0 +1,4 @@
+JWT_SECRET="senha secreta"
+DATABASE_URL="mysql://user:password@localhost:3306/database_prisma"
+
+API_CRYPTO="http://localhost:4000"
